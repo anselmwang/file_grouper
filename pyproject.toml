@@ -1,8 +1,11 @@
 [tool.poetry]
 name = "file_grouper"
-version = "0.1.1"
+version = "0.1.2"
 description = "Group file based on file name pattern defined by regex."
-authors = ["Yu Wang <anselmwang@gmail.com>"]
+authors = ["Anselm Wang <anselmwang@gmail.com>"]
+homepage = "https://github.com/anselmwang/file_grouper"
+repository = "https://github.com/anselmwang/file_grouper"
+readme= "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.7"
