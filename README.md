@@ -1,3 +1,11 @@
+# Usage
+
+I use this script to group beestar maths worksheet
+
+```
+poetry run group_file --no-dryrun --key_regex "(grade_03_.*)_\d\d" --group_no 1 --dst_root c:\Cloud\OneDrive\OneSyncFiles\beestar\grade3_group\ c:\Cloud\OneDrive\OneSyncFiles\beestar\grade3\*
+```
+
 # Setup Dev Environment
 
 First clone this repo then change to the repo directory.

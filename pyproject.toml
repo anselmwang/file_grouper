@@ -24,3 +24,4 @@ profile = "black"
 
 [tool.poetry.scripts]
 hello = 'file_grouper.console:hello'
+group_file = 'file_grouper.file_grouper:group_file'
